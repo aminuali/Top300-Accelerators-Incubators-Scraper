@@ -59,4 +59,7 @@
 
 ![image](https://github.com/aminuali/Top300-Accelerators-Incubators-Scraper/assets/56072102/c143e2aa-55da-460f-996f-233e12daaa33)
 
+# Disclaimer
+  This project is for educational purposes only. The data is scraped from Failory, and its accuracy and completeness cannot be guaranteed. Use the data responsibly and verify it independently if used for any critical     applications. The author is not responsible for any misuse of the information provided by this script.
+
 
